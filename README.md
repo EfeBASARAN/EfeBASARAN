@@ -1,86 +1,94 @@
-<!-- ============ BAŞLIK ============ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a7f37,100:39d353&height=190&section=header&text=Merhaba,%20ben%20Efe%20👋&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Junior%20Software%20Developer%20%40%20SekomPOS&descAlignY=58&descSize=18" />
-</p>
+<img src="./assets/banner.svg" width="100%" alt="Efe BAŞARAN — Software Developer" />
 
 <p align="center">
-  <img src="./avatar.png" width="180" alt="Efe BAŞARAN" />
+  <a href="https://www.instagram.com/efe_basaran1/"><img src="https://img.shields.io/badge/Instagram-efe__basaran1-161b22?style=flat-square&logo=instagram&logoColor=E4405F&labelColor=0d1117" /></a>
+  <a href="https://github.com/EfeBASARAN?tab=repositories"><img src="https://img.shields.io/badge/Repositories-60%2B-161b22?style=flat-square&logo=github&logoColor=white&labelColor=0d1117" /></a>
+  <img src="https://img.shields.io/badge/Location-Istanbul%2C%20TR-161b22?style=flat-square&logo=googlemaps&logoColor=3fb950&labelColor=0d1117" />
+  <img src="https://komarev.com/ghpvc/?username=EfeBASARAN&style=flat-square&color=3fb950&label=Profile+views" />
 </p>
 
-<h2 align="center">Efe BAŞARAN</h2>
+<br/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=39D353&center=true&vCenter=true&width=620&lines=Junior+Software+Developer;C%23+%C2%B7+TypeScript+%C2%B7+JavaScript+%C2%B7+Lua;Discord+%26+Telegram+botlar%C4%B1+geli%C5%9Ftiriyorum;FiveM+sunucu+geli%C5%9Ftirme" />
-</p>
+## About
 
-<p align="center">
-  <a href="https://www.instagram.com/efe_basaran1/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://github.com/EfeBASARAN?tab=repositories"><img src="https://img.shields.io/badge/Repolar-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=EfeBASARAN&color=39d353&style=for-the-badge&label=Profil+G%C3%B6r%C3%BCnt%C3%BClenme" />
-</p>
+I'm a software developer at **SekomPOS** in Istanbul. I build **.NET back-ends and APIs**, **Next.js / React web apps**, and **bots and automation tools** that take repetitive work off people's hands.
 
----
+Since 2023 I've shipped 60+ projects. They include ASP.NET Core APIs with JWT auth, real-time crypto market trackers built on WebSocket streams, Discord, Telegram and WhatsApp bots, and full FiveM roleplay server systems.
 
-### 🧑‍💻 Hakkımda
+- **Now:** building automation platforms with Next.js, TypeScript and Node.js
+- **Interested in:** clean API design, real-time data, developer tooling
+- **Open to:** freelance work, collaboration and interesting automation problems
 
-- 💼 **SekomPOS**'ta Junior Software Developer olarak çalışıyorum
-- 🤖 Discord ve Telegram botları geliştiriyorum
-- 🎮 FiveM sunucuları üzerinde Lua ile çalışıyorum
-- 🛠️ C# ile küçük masaüstü araçları yazıyorum
-- 📍 **İstanbul, Türkiye**
+<br/>
 
----
+<img src="./assets/stats.svg" width="100%" alt="Stats" />
 
-### 🛠️ Teknolojiler
+<br/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,nodejs,lua,discord,git,github,visualstudio,vscode,windows&perline=6&theme=dark" />
-</p>
+## What I Do
 
----
+<img src="./assets/expertise.svg" width="100%" alt="Areas of expertise" />
 
-### 📊 GitHub İstatistikleri
+<br/>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=EfeBASARAN&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&count_private=true&locale=tr" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EfeBASARAN&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&locale=tr" />
-</p>
+## Tech Stack
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=EfeBASARAN&theme=github-dark-blue&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&locale=tr" />
-</p>
+<table>
+  <tr>
+    <td width="150"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=cs,ts,js,python,lua,html,css&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td><b>Back-end</b></td>
+    <td><img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,prisma,mysql,sqlite&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td><b>Front-end</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,vite&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td><b>Automation</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=discord,discordjs&theme=dark" />
+      <br/>
+      <img src="https://img.shields.io/badge/Puppeteer-161b22?style=flat-square&logo=puppeteer&logoColor=40B5A4" />
+      <img src="https://img.shields.io/badge/Playwright-161b22?style=flat-square&logo=playwright&logoColor=2EAD33" />
+      <img src="https://img.shields.io/badge/Telegram_API-161b22?style=flat-square&logo=telegram&logoColor=26A5E4" />
+      <img src="https://img.shields.io/badge/WhatsApp-161b22?style=flat-square&logo=whatsapp&logoColor=25D366" />
+      <img src="https://img.shields.io/badge/Binance_API-161b22?style=flat-square&logo=binance&logoColor=F0B90B" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,windows&theme=dark" /></td>
+  </tr>
+</table>
 
-### 🟩 Katkı Aktivitesi
+<br/>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/39d353/EfeBASARAN" alt="Katkı grafiği" width="100%" />
-</p>
+## Featured Work
 
----
+| Project | Description | Stack |
+|---|---|---|
+| [**EB_DiscordTicketBot**](https://github.com/EfeBASARAN/EB_DiscordTicketBot) | Ticket and support system for Discord servers | `JavaScript` `discord.js` |
+| [**TelegramBot**](https://github.com/EfeBASARAN/TelegramBot) | Telegram automation with a Next.js control panel | `TypeScript` `Next.js` `GramJS` `Zustand` |
+| [**FivemFullServer**](https://github.com/EfeBASARAN/FivemFullServer) | Complete FiveM roleplay server setup | `Lua` |
+| [**EB_CursorFix**](https://github.com/EfeBASARAN/EB_CursorFix) | Lightweight Windows utility that fixes cursor issues | `C#` `.NET` |
 
-### ⭐ Projelerim
+<details>
+<summary><b>Private and client work</b></summary>
+<br/>
 
-<p align="center">
-  <a href="https://github.com/EfeBASARAN/EB_DiscordTicketBot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EfeBASARAN&repo=EB_DiscordTicketBot&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353" />
-  </a>
-  <a href="https://github.com/EfeBASARAN/TelegramBot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EfeBASARAN&repo=TelegramBot&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/EfeBASARAN/FivemFullServer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EfeBASARAN&repo=FivemFullServer&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353" />
-  </a>
-  <a href="https://github.com/EfeBASARAN/EB_CursorFix">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EfeBASARAN&repo=EB_CursorFix&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353" />
-  </a>
-</p>
+| Area | What I built | Stack |
+|---|---|---|
+| **Crypto & market data** | Volume and price-change trackers, signal alerts, Binance / MEXC futures tools | `C#` `Python` `WebSocket` `Binance API` |
+| **Messaging automation** | Telegram content forwarding, scheduled messaging, WhatsApp automation | `TypeScript` `Python` `mtcute` `Baileys` |
+| **Web platforms** | Crypto news and data site, SMS-verification platform, admin dashboards | `Next.js` `Prisma` `Tailwind` `Recharts` |
+| **Enterprise .NET** | E-logbook system, banking API with JWT, parking payment MVC, API health monitoring | `ASP.NET Core` `MVC` `NLog` `SQL` |
+| **Game servers** | FiveM management and police Discord bots with MySQL | `discord.js` `MySQL` `Python` |
 
----
+</details>
 
-<p align="center"><i>“Kod benim zanaatim. Açık kaynak benim katkım.”</i></p>
+<br/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39d353,50:1a7f37,100:0d1117&height=100&section=footer" />
-</p>
+<img src="./assets/footer.svg" width="100%" alt="" />
