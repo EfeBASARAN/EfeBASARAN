@@ -53,7 +53,7 @@
 ### 🟩 Katkı Aktivitesi
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EfeBASARAN&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&hide_border=true" />
+  <img src="https://ghchart.rshah.org/39d353/EfeBASARAN" alt="Katkı grafiği" width="100%" />
 </p>
 
 ---
