@@ -1,43 +1,22 @@
-<img src="./assets/banner.svg" width="100%" alt="Efe BAŞARAN — Software Developer" />
+<img src="./assets/ticker.svg" width="100%" alt="Live ticker" />
 
-<br/>
+<img src="./assets/hero.svg" width="100%" alt="EFE/DEV — Efe BAŞARAN, Software Developer. Weekly contribution chart: 537 contributions in the last 12 months." />
 
-<h3 align="center">I build back-ends, web apps and automation tools that save people time.</h3>
-
-<p align="center">
-  <a href="https://www.instagram.com/efe_basaran1/"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F" /></a>
-  <a href="https://github.com/EfeBASARAN?tab=repositories"><img src="https://img.shields.io/badge/Projects-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
-<br/>
-
-<img src="./assets/stats.svg" width="100%" alt="60+ repositories, 530+ contributions per year, 4+ years coding, 20+ technologies" />
-
-<br/><br/>
-
-## What I Do
-
-<img src="./assets/expertise.svg" width="100%" alt="Backend & APIs, Web Apps, Bots & Automation, Market Data" />
-
-<br/>
-
-## Stack
+<img src="./assets/portfolio.svg" width="100%" alt="High-potential projects: Telegram Auto Messenger, WhatsApp Automation, SMS Verification Platform, Crypto Money-Flow Radar, MEXC Futures Bot, Discord Ticket Bot" />
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,python,nodejs,nextjs,react,tailwind,mysql,prisma,discordjs,git,lua&perline=7&theme=dark" />
+  <b>Open source:</b>&nbsp;
+  <a href="https://github.com/EfeBASARAN/EB_DiscordTicketBot">EB_DiscordTicketBot</a> ·
+  <a href="https://github.com/EfeBASARAN/TelegramBot">TelegramBot</a> ·
+  <a href="https://github.com/EfeBASARAN/FivemFullServer">FivemFullServer</a> ·
+  <a href="https://github.com/EfeBASARAN/EB_CursorFix">EB_CursorFix</a>
 </p>
 
-<br/>
+<img src="./assets/allocation.svg" width="100%" alt="Primary languages: C#/.NET 55.8%, TypeScript 19.2%, Python 11.5%, JavaScript 7.7%" />
 
-## Featured
+<p align="center">
+  <a href="https://www.instagram.com/efe_basaran1/"><img src="https://img.shields.io/badge/Instagram-07090d?style=for-the-badge&logo=instagram&logoColor=E4405F" /></a>
+  <a href="https://github.com/EfeBASARAN?tab=repositories"><img src="https://img.shields.io/badge/All_Projects-07090d?style=for-the-badge&logo=github&logoColor=26d07c" /></a>
+</p>
 
-| | |
-|---|---|
-| [**EB_DiscordTicketBot**](https://github.com/EfeBASARAN/EB_DiscordTicketBot) | Ticket system for Discord servers |
-| [**TelegramBot**](https://github.com/EfeBASARAN/TelegramBot) | Telegram automation with a Next.js panel |
-| [**FivemFullServer**](https://github.com/EfeBASARAN/FivemFullServer) | Complete FiveM roleplay server |
-| [**EB_CursorFix**](https://github.com/EfeBASARAN/EB_CursorFix) | Windows cursor fix utility |
-
-<p><sub>+ 56 private and client projects</sub></p>
-
-<img src="./assets/footer.svg" width="100%" alt="" />
+<img src="./assets/status.svg" width="100%" alt="Connected · Istanbul · Open to collaboration" />
